@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "title": "Pixel Glitch",
+  "asset": "public/toolcraft/cover.png",
+  "generation": {
+    "kind": "app-composition",
+    "source": "src/app/app-composition.tsx",
+    "state": "app-cover-state.json",
+    "description": "Actual app PNG export at the recorded settings: default Noise source on a 16:9 1920x1080 canvas, exported at 2K; no editor UI."
+  }
+}

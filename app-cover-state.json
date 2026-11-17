@@ -1,0 +1,28 @@
+{
+  "canvas": { "aspectRatio": "16:9", "size": { "height": 1080, "unit": "px", "width": 1920 } },
+  "export": { "format": "png", "resolution": "2k" },
+  "values": {
+    "color.depth": 20,
+    "color.gradient": {
+      "angle": 135,
+      "gradientType": "linear",
+      "stops": [
+        { "color": "#14082E", "position": "0%" },
+        { "color": "#3A1CFF", "position": "28%" },
+        { "color": "#FF2E88", "position": "55%" },
+        { "color": "#FF8A00", "position": "78%" },
+        { "color": "#FFE94D", "position": "100%" }
+      ]
+    },
+    "glitch.blocks": 35,
+    "glitch.direction": "rows",
+    "glitch.scatter": 15,
+    "glitch.seed": 7,
+    "glitch.shift": 55,
+    "glitch.sort": 20,
+    "glitch.streaks": 40,
+    "pixels.cellSize": 16,
+    "source.mode": "noise",
+    "source.noiseScale": 260
+  }
+}
